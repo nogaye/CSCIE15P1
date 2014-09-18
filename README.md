@@ -1,7 +1,7 @@
 # System Setup / Portfolio
 
 ## Live URL
-<http://p2.dwa15.com>
+<http://p1.ogaye.me>
 
 ## Description
 Set up a portfolio page to present all the projects to be completed in the CSCI E-15 course.
